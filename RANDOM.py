@@ -118,11 +118,12 @@ logo=("""\033[1;32m
 \033[1;93m--------------------------------------------------
   \033[1;32mF4C3B00K  : AFAQ CHOHAN 
   \033[1;32mY0UTUB3   : AFAQ CHOHAN OFFICIAL 
-  \033[1;32mV3RS10N   : 1.1
+  \033[1;32mV3RS10N   : 0.01
   \033[1;32m0WN3R     : AFAQ CHOHAN 
+  \033[1;32mWhatspp   : 03120044282
 --------------------------------------------------
-\033[1;37m[-]Dear Paid user:
-\033[1;37m[-]Your subscription last date 31/12/23
+\033[1;37m[-]Dear Paid user: XXXXXXXXXXXXXXXXXXXX
+\033[1;37m[-]Your subscription last date 31/12/25
 --------------------------------------------------""")
 def linex():
 	print('\033[1;32m----------------------------------------------')
@@ -922,13 +923,13 @@ def menu_apikey():
 \033[1;37m[-] GITHUB    :\033[1;32m NSKBRAND
 \033[1;37m[-] WhatsApp  :\033[1;32m 031200282
 \033[1;37m[-] TOOLS     :\033[1;32m MIX CLONING
-\033[1;37m[-] VERSION   :\033[1;32m 1.1
+\033[1;37m[-] VERSION   :\033[1;32m 0.01
 \033[1;37m[-] STATUS    :\033[1;32m PAID
 ==================================================
 \033[1;33m[*]TOOLS  : Facebook cloning
 \033[1;37m[*]Status : PAID
 ==================================================
- \33[37;41m\t IF YOU ARE FREE USER DON'T INBOX\33[0;m
+ \33[37;41m\t IF YOU ARE FREE USER DON'T COME INBOX\33[0;m
 \033[1;93m=================================================
  \033[1;35m[*]First read NOTE:
  \033[1;37m[1]if facebook go on update you get not
@@ -941,7 +942,8 @@ def menu_apikey():
  [*] Random cloning
  [*] Gmail cloning
  [*] Separate ids
- [*] remove dublicate lines from file              [8] login another cookie
+ [*] remove dublicate lines from file             
+ [*] login another cookie
  [*] contact with owner
  [0] Exit menu
 ==================================================   """)
